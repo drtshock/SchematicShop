@@ -1,4 +1,4 @@
 SchematicShop
 =============
 
-Get all your Christmas shopping done here.
+This repository is for issue tracking only.
